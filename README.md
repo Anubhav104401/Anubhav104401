@@ -32,11 +32,12 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Anubhav104401&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anubhav's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav104401&theme=tokyonight&hide_border=true" alt="Anubhav's Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Anubhav104401&theme=tokyonight&hide_border=true" alt="Anubhav's Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anubhav104401&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
